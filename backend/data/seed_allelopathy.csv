@@ -1,0 +1,5 @@
+cover_crop,target,target_type,effect,chemical,evidence_strength,citation
+rye,Amaranthus,weed,inhibit,"benzoxazinoids (DIBOA, DIMBOA)",0.8,"Barnes & Putnam 1983; Schulz et al. 2013"
+mustard,Lolium,weed,inhibit,"isothiocyanates (ITCs)",0.7,"Brown & Morra 1997"
+rye,maize,crop,neutral,"benzoxazinoids (DIBOA, DIMBOA)",0.4,"mixed evidence"
+
